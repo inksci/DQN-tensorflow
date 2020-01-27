@@ -1,5 +1,29 @@
 # Human-Level Control through Deep Reinforcement Learning
 
+# DRRL
+
+## state
+in old version, a state is 4 screenshots.
+
+here, a state is one screenshot and a previous lstm state
+
+## networks
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Tensorflow implementation of [Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf).
 
 ![model](assets/model.png)
